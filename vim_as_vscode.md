@@ -1,4 +1,5 @@
 # Vim as VSCode
+
 VSCode recently stopped working on my lab computer, so I've set up Vim to act as VSCode.  
 Here are the relevant commands:
 
