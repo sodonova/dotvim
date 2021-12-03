@@ -1,6 +1,6 @@
 # Vim config
 
-vim >= 7.4 will automaically load vimrc if this is in ~  
+vim >= 7.4 will automaically load vimrc if this is in ~ and named .vim
 If not, use the workflow:  
 ```
 $ cd
