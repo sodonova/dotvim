@@ -1,3 +1,12 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =1
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/u/riker/u96/sodonova/cs252/lab5-src/http-root-dir/htdocs'
+let g:netrw_dirhist_3='/u/riker/u96/sodonova/cs252/lab5-src/http-root-dir'
+let g:netrw_dirhist_2='/u/riker/u96/sodonova/cs252/lab5-src'
 let g:netrw_dirhist_1='/u/riker/u96/sodonova/cs252/lab3-src'
+let g:netrw_dirhist_0='/u/riker/u96/sodonova/cs252'
+let g:netrw_dirhist_9='/u/riker/u96/sodonova/cs252/lab5-src'
+let g:netrw_dirhist_8='/u/riker/u96/sodonova/cs252/lab3-src'
+let g:netrw_dirhist_7='/u/riker/u96/sodonova/cs252'
+let g:netrw_dirhist_6='/u/riker/u96/sodonova/cs252/lab5-src'
+let g:netrw_dirhist_5='/u/riker/u96/sodonova/cs252/lab3-src'
